@@ -1,0 +1,32 @@
+aid: skybiometry
+name: SkyBiometry
+description: "Face Detection, Face Recognition and Face Grouping"
+url: https://skybiometry.com/documentation/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: SkyBiometry
+    description: "Face Detection, Face Recognition and Face Grouping"
+    humanURL: https://skybiometry.com/documentation/
+    baseURL: https://skybiometry.com/documentation/
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://skybiometry.com/documentation/
+common:
+  - type: Website
+    url: https://skybiometry.com/documentation/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
