@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://skybiometry.com/documentation/
 common:
+  - type: DomainSecurity
+    url: security/skybiometry-domain-security.yml
   - type: Website
     url: https://skybiometry.com/documentation/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://skybiometry.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
