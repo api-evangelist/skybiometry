@@ -35,20 +35,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: SkyBiometry
     description: "Face Detection, Face Recognition and Face Grouping"
     humanURL: https://skybiometry.com/documentation/
-    baseURL: https://skybiometry.com/documentation/
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://skybiometry.com/documentation/
